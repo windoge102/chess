@@ -1,0 +1,112 @@
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_image.h>
+#include <iostream>
+#include <vector>
+#include "Queen.hpp"
+//#include "RenderWindow.hpp"
+
+Queen::Queen(int x, int y, SDL_Texture* p_tex) : Piece(x, y, p_tex) {
+	select = false; move = false;
+}
+void Queen::setSelectT(vector<int> &c) {
+	//if (select == true) {select = false; possibleMoves.clear(); }
+	if (select == false) {select = true; setPossibleMoves(c); }
+}
+void Queen::setSelectF() {
+	if (select == true) {select = false; possibleMoves.clear(); }
+}
+void Queen::setPossibleMoves(vector<int> &c) {
+	int a, b; a = this->getX(); b = this->getY(); possibleMoves.clear();
+	if (move == false) { bool available = true;
+		for (int i = 0; i < 8; i++) {
+			for (unsigned int i = 0; i < c.size(); i += 2) {
+				if ((a-64)==c[i] && (b-64)==c[i+1]) {
+					available = false;
+				}
+			}
+			if (available == false) {break;}
+			possibleMoves.push_back(a-=64); possibleMoves.push_back(b-=64);
+		}
+		available = true; a = this->getX(); b = this->getY();
+		for (int i = 0; i < 8; i++) {
+			for (unsigned int i = 0; i < c.size(); i += 2) {
+				if ((a+64)==c[i] && (b+64)==c[i+1]) {
+					available = false;
+				}
+			}
+			if (available == false) {break;}
+			possibleMoves.push_back(a+=64); possibleMoves.push_back(b+=64);
+		}
+		available = true; a = this->getX(); b = this->getY();
+		for (int i = 0; i < 8; i++) {
+			for (unsigned int i = 0; i < c.size(); i += 2) {
+				if ((a-64)==c[i] && (b+64)==c[i+1]) {
+					available = false;
+				}
+			}
+			if (available == false) {break;}
+			possibleMoves.push_back(a-=64); possibleMoves.push_back(b+=64);
+		}
+		available = true; a = this->getX(); b = this->getY();
+		for (int i = 0; i < 8; i++) {
+			for (unsigned int i = 0; i < c.size(); i += 2) {
+				if ((a+64)==c[i] && (b-64)==c[i+1]) {
+					available = false;
+				}
+			}
+			if (available == false) {break;}
+			possibleMoves.push_back(a+=64); possibleMoves.push_back(b-=64);
+		}
+		available = true; a = this->getX(); b = this->getY();
+        
+        for (int i = 0; i < 8; i++) {
+			for (unsigned int i = 0; i < c.size(); i += 2) {
+				if ((a-64)==c[i] && (b)==c[i+1]) {
+					available = false;
+				}
+			}
+			if (available == false) {break;}
+			possibleMoves.push_back(a-=64); possibleMoves.push_back(b);
+		}
+		available = true; a = this->getX(); b = this->getY();
+		for (int i = 0; i < 8; i++) {
+			for (unsigned int i = 0; i < c.size(); i += 2) {
+				if ((a+64)==c[i] && (b)==c[i+1]) {
+					available = false;
+				}
+			}
+			if (available == false) {break;}
+			possibleMoves.push_back(a+=64); possibleMoves.push_back(b);
+		}
+		available = true; a = this->getX(); b = this->getY();
+		for (int i = 0; i < 8; i++) {
+			for (unsigned int i = 0; i < c.size(); i += 2) {
+				if ((a)==c[i] && (b+64)==c[i+1]) {
+					available = false;
+				}
+			}
+			if (available == false) {break;}
+			possibleMoves.push_back(a); possibleMoves.push_back(b+=64);
+		}
+		available = true; a = this->getX(); b = this->getY();
+		for (int i = 0; i < 8; i++) {
+			for (unsigned int i = 0; i < c.size(); i += 2) {
+				if ((a)==c[i] && (b-64)==c[i+1]) {
+					available = false;
+				}
+			}
+			if (available == false) {break;}
+			possibleMoves.push_back(a); possibleMoves.push_back(b-=64);
+		}
+		available = true; a = this->getX(); b = this->getY();
+	}
+}
+
+//iterate through iterative list to find piece position
+bool Queen::checkFreeSquare(vector<int> &c, int targetX, int targetY) {
+	bool avail = true;
+	for (unsigned int i = 0; i < c.size(); i += 2) {
+			if ((targetX)==c[i] && (targetY)==c[i+1]) {avail = false;}
+		}
+	return avail;
+} 

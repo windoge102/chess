@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ent",
+				"Entityptr1"
+			],
+			[
+				"E",
+				"Entityptr1"
+			],
+			[
+				"Enti",
+				"Entityptr1"
+			],
+			[
+				"m",
+				"mousey1"
+			],
+			[
+				"mouse",
+				"mousex1"
+			],
+			[
+				"SDL",
+				"SDL_MOUSEBUTTONDOWN"
+			],
+			[
+				"do",
+				"dot1"
+			],
+			[
+				"mo",
+				"mousey"
+			],
+			[
+				"x",
+				"x2"
+			],
+			[
+				"g",
+				"greencarrier"
+			],
+			[
+				"gree",
+				"greencarrier"
+			],
+			[
+				"is",
+				"issquare"
+			],
+			[
+				"green",
+				"greencarrier"
+			],
+			[
+				"gre",
+				"greenptr"
+			],
+			[
+				"p",
+				"p_layer"
+			],
+			[
+				"bla",
+				"blackpawns"
+			],
+			[
+				"get",
+				"getY"
+			],
+			[
+				"en",
+				"entities1"
+			],
+			[
+				"entit",
+				"entities1"
+			],
+			[
+				"ent",
+				"entities1"
+			],
+			[
+				"enti",
+				"entities1"
+			],
+			[
+				"plat",
+				"platform2"
+			],
+			[
+				"platf",
+				"platform1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/main.cpp",
+			"settings":
+			{
+				"buffer_size": 5839,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					2,
+					"left_delete",
+					null,
+					"AgAAAMsEAAAAAAAAywQAAAAAAABBAAAACVNETF9UZXh0dXJlKiBkb3QxID0gd2luZG93LmxvYWRUZXh0dXJlKCJtZWRpYS9JTUFHRVMvZG90MS5wbmciKTvKBAAAAAAAAMoEAAAAAAAAAQAAAAo",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAwFAAAAAAAAywQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					2,
+					"left_delete",
+					null,
+					"AgAAAMAHAAAAAAAAwAcAAAAAAAAOAAAACWludCBvc2MxID0gMDu/BwAAAAAAAL8HAAAAAAAAAQAAAAo",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAM4HAAAAAAAAwAcAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					2,
+					"left_delete",
+					null,
+					"AgAAADkMAAAAAAAAOQwAAAAAAACZAAAACQkJCQkJaWYgKG9zYzEgPT0gMCkKCQkJCQkJewoJCQkJCQkJc3RkOjpjb3V0IDw8ICJicm93bmRvdCIgPDwgc3RkOjplbmRsOwoJCQkJCQkJZG90cy5wdXNoX2JhY2soRW50aXR5cHRyMSh4MiwgMzg0LCB5MiwgZG90MSkpOwoJCQkJCQkJb3NjMSArPSAxOwoJCQkJCQl9OAwAAAAAAAA4DAAAAAAAAAEAAAAK",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANIMAAAAAAAAOQwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					12,
+					2,
+					"left_delete",
+					null,
+					"AgAAAK8MAAAAAAAArwwAAAAAAAARAAAACQkJCQkJCW9zYzEgLT0gMTuuDAAAAAAAAK4MAAAAAAAAAQAAAAo",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMAMAAAAAAAArwwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					15,
+					2,
+					"left_delete",
+					null,
+					"AgAAAK8MAAAAAAAArwwAAAAAAAAHAAAACQkJCQkJfa4MAAAAAAAArgwAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALYMAAAAAAAArwwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					18,
+					2,
+					"left_delete",
+					null,
+					"AgAAADkMAAAAAAAAOQwAAAAAAAASAAAACQkJCQkJZWxzZQoJCQkJCQl7OAwAAAAAAAA4DAAAAAAAAAEAAAAK",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEsMAAAAAAAAOQwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					21,
+					1,
+					"unindent",
+					null,
+					"AgAAADkMAAAAAAAAOQwAAAAAAAABAAAACWUMAAAAAAAAZQwAAAAAAAABAAAACQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJsMAAAAAAAAOQwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AwAAAAAAAAAAAAAAAAAAAAAAAAA9EAAALy8gVGhpcyBwcm9qZWN0IHdhcyBtYWRlIHBvc3NpYmxlIHRocm91Z2ggdGhlIGFzc2lzdGFuY2Ugb2YgY29kZXJnb3BoZXIncyB5b3V0dWJlIHNlcmllczoKLy9odHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUtzRzZkSmxMQkR3Jmxpc3Q9UEwyUlBqV25KZHVObVhIUll3ZHR1YmxJUGRscW9jQm9MUwojaW5jbHVkZSA8U0RMMi9TREwuaD4KI2luY2x1ZGUgPFNETDIvU0RMX2ltYWdlLmg+CiNpbmNsdWRlIDxpb3N0cmVhbT4KI2luY2x1ZGUgPHZlY3Rvcj4KI2luY2x1ZGUgIlJlbmRlcldpbmRvdy5ocHAiCiNpbmNsdWRlICJFbnRpdHkuaHBwIgojaW5jbHVkZSAiRW50aXR5cHRyMS5ocHAiCgpuYW1lc3BhY2UgZ2xvYmFsCnsKCWludCB4MTsKCWludCB5MTsKfQoKaW50IG1haW4oaW50IGFyZ2MsIGNoYXIqIGFyZ3NbXSkKewoJaWYgKFNETF9Jbml0KFNETF9JTklUX1ZJREVPKSA+IDApCgkJc3RkOjpjb3V0IDw8ICJTVERfSW5pdCBIQVMgRkFJTEVELiBFUlJPUjogIiA8PCBTRExfR2V0RXJyb3IoKSA8PCBzdGQ6OmVuZGw7CglpZiAoIShJTUdfSW5pdChJTUdfSU5JVF9QTkcpKSkKCQlzdGQ6OmNvdXQgPDwgIklNR19Jbml0IEhBUyBGQUlMRUQuIEVSUk9SOiAiIDw8IFNETF9HZXRFcnJvcigpIDw8IHN0ZDo6ZW5kbDsKCWlmICghKElNR19Jbml0KElNR19JTklUX0pQRykpKQoJCXN0ZDo6Y291dCA8PCAiSU1HX0luaXQgSEFTIEZBSUxFRC4gRVJST1I6ICIgPDwgU0RMX0dldEVycm9yKCkgPDwgc3RkOjplbmRsOwoKCVJlbmRlcldpbmRvdyB3aW5kb3coIkdBTUUgdjEuMCIsIDUxMiwgNTEyKTsKCglTRExfVGV4dHVyZSogYmxhY2sgPSB3aW5kb3cubG9hZFRleHR1cmUoIm1lZGlhL0lNQUdFUy9ibGFjay5wbmciKTsKCVNETF9UZXh0dXJlKiB3aGl0ZSA9IHdpbmRvdy5sb2FkVGV4dHVyZSgibWVkaWEvSU1BR0VTL3doaXRlLnBuZyIpOwoJU0RMX1RleHR1cmUqIHJlZCA9IHdpbmRvdy5sb2FkVGV4dHVyZSgibWVkaWEvSU1BR0VTL3JlZC5wbmciKTsKCVNETF9UZXh0dXJlKiBibGFja3Bhd24gPSB3aW5kb3cubG9hZFRleHR1cmUoIm1lZGlhL0lNQUdFUy9ibGFja3Bhd24xLnBuZyIpOwoJU0RMX1RleHR1cmUqIHdoaXRlcGF3biA9IHdpbmRvdy5sb2FkVGV4dHVyZSgibWVkaWEvSU1BR0VTL3doaXRlcGF3bjEucG5nIik7CglTRExfVGV4dHVyZSogZ3JlZW5wYXduID0gd2luZG93LmxvYWRUZXh0dXJlKCJtZWRpYS9JTUFHRVMvZ3JlZW5wYXduMS5wbmciKTsKCVNETF9UZXh0dXJlKiBkb3QyID0gd2luZG93LmxvYWRUZXh0dXJlKCJtZWRpYS9JTUFHRVMvZG90Mi5wbmciKTsKCglzdGQ6OnZlY3RvcjxFbnRpdHk+IHNxdWFyZXMgPSB7fTsKCXN0ZDo6dmVjdG9yPEVudGl0eT4gd2hpdGVwYXducyA9IHt9OwoJc3RkOjp2ZWN0b3I8RW50aXR5PiBibGFja3Bhd25zID0ge307CglzdGQ6OnZlY3RvcjxFbnRpdHlwdHIxPiBkb3RzID0ge307CgoJaW50IGIgPSAwOwoJZm9yIChpbnQgaWIgPSAwOyBpYiA8IDg7IGliKyspCgl7CgkJaW50IGEgPSAwOwoJCWZvciAoaW50IGlhID0gMDsgaWEgPCA4OyBpYSsrKQoJCXsKCQkJaW50IGMgPSBpYiArIGlhOwoJCQlpZiAoYyAlIDIgPT0gMCkKCQkJewoJCQkJc3F1YXJlcy5wdXNoX2JhY2soRW50aXR5KGEsIGIsIHdoaXRlKSk7CgkJCX0KCQkJZWxzZQoJCQl7CgkJCQlzcXVhcmVzLnB1c2hfYmFjayhFbnRpdHkoYSwgYiwgYmxhY2spKTsKCQkJfQoJCQlhICs9IDY0OwoJCX0KCQliICs9IDY0OwoJfQoKCWludCBhID0gMDsKCWZvciAoaW50IGkgPSAwOyBpIDwgODsgaSsrKQoJewoJCXdoaXRlcGF3bnMucHVzaF9iYWNrKEVudGl0eShhLCAzODQsIHdoaXRlcGF3bikpOwoJCWJsYWNrcGF3bnMucHVzaF9iYWNrKEVudGl0eShhLCA2NCwgYmxhY2twYXduKSk7CgkJYSArPSA2NDsKCX0KCglib29sIGdhbWVSdW5uaW5nID0gdHJ1ZTsKCWJvb2wgcHJlc3MgPSBmYWxzZTsKCWJvb2wgbGF5ZXIgPSB0cnVlOwoJU0RMX0V2ZW50IGV2ZW50OwoJaW50IG9zYyA9IDA7CglpbnQgbW91c2V4MSwgbW91c2V5MTsKCWludCB4MiA9IDA7CglpbnQgeTIgPSAtMjsKCgl3aGlsZSAoZ2FtZVJ1bm5pbmcpCgl7CgkJd2luZG93LmNsZWFyKCk7CgoJCWZvciAoRW50aXR5JiBlIDogc3F1YXJlcykge3dpbmRvdy5yZW5kZXIoZSk7fQoJCWZvciAoRW50aXR5JiBlIDogd2hpdGVwYXducykge3dpbmRvdy5yZW5kZXIoZSk7fQoJCWZvciAoRW50aXR5JiBlOiBibGFja3Bhd25zKSB7d2luZG93LnJlbmRlcihlKTt9CgkJZm9yIChFbnRpdHlwdHIxJiBlOiBkb3RzKSB7d2luZG93LnJlbmRlcnB0cjEoZSk7ZS51cGRhdGV5KCk7fQoJCWlmIChwcmVzcykKCQl7CgkJCWlmIChsYXllciA9PSBmYWxzZSkKCQkJewoJCQkJZm9yIChFbnRpdHlwdHIxJiBlOiBkb3RzKQoJCQkJewoJCQkJCWlmIChlLmdldFkoKSA8PSA2NCkKCQkJCQl7CgkJCQkJCS8vZS5+RW50aXR5cHRyMSgpOwoJCQkJCQlkb3RzLmVyYXNlKGRvdHMuYmVnaW4oKSk7CgkJCQkJfQoJCQkJfQoJCQl9CgkJfQoJCXdoaWxlIChTRExfUG9sbEV2ZW50KCZldmVudCkpCgkJewoJCQlzd2l0Y2ggKGV2ZW50LnR5cGUpCgkJCXsKCQkJY2FzZSBTRExfUVVJVDoKCQkJCWdhbWVSdW5uaW5nID0gZmFsc2U7CgkJCQlicmVhazsKCQkJY2FzZSBTRExfTU9VU0VCVVRUT05ET1dOOgoJCQkJaWYgKGV2ZW50LmJ1dHRvbi5idXR0b24gPT0gU0RMX0JVVFRPTl9MRUZUKQoJCQkJewoJCQkJCWludCBtb3VzZXgsIG1vdXNleTsKCQkJCQlTRExfR2V0TW91c2VTdGF0ZSgmbW91c2V4LCAmbW91c2V5KTsKCQkJCQltb3VzZXgxID0gbW91c2V4OwoJCQkJCW1vdXNleTEgPSBtb3VzZXk7CgkJCQkJaWYgKG9zYyAlIDIgPT0gMCkKCQkJCQl7CgkJCQkJCXByZXNzID0gdHJ1ZTsKCQkJCQkJLy9vc2MgaXMgZXF1YWwgdG8gMAoJCQkJCQlvc2MgKz0gMTsKCQkJCQl9CgkJCQkJZWxzZSBpZiAob3NjICUgMiA9PSAxKQoJCQkJCXsKCQkJCQkJcHJlc3MgPSBmYWxzZTsKCQkJCQkJbGF5ZXIgPSB0cnVlOwoJCQkJCQlvc2MgLT0gMTsKCQkJCQl9CgkJCQl9CgkJCQlzdGQ6OmNvdXQgPDwgb3NjIDw8IHN0ZDo6ZW5kbDsKCQkJCWJyZWFrOwoJCQljYXNlIFNETF9LRVlET1dOOgoJCQkJaWYgKHByZXNzID09IHRydWUpCgkJCQl7CgkJCQkJaWYgKGxheWVyID09IGZhbHNlKQoJCQkJCXsKCQkJCQkJc3RkOjpjb3V0IDw8ICJibGFja2RvdCIgPDwgc3RkOjplbmRsOwoJCQkJCQlkb3RzLnB1c2hfYmFjayhFbnRpdHlwdHIxKHgyLCAzODQsIHkyLCBkb3QyKSk7CgkJCQkJfQoJCQkJCQoJCQkJfQoKCQkJCWJyZWFrOwoJCQl9CgkJfQoJCWlmIChwcmVzcykKCQl7CgkJCWZvciAoRW50aXR5JiBlOiB3aGl0ZXBhd25zKQoJCQl7CgkJCQlnbG9iYWw6OngxID0gZS5nZXRYKCk7CgkJCQlnbG9iYWw6OnkxID0gZS5nZXRZKCk7CgkJCQlpZiAoKGdsb2JhbDo6eDEgPD0gbW91c2V4MSkgYW5kIChtb3VzZXgxIDwgKGdsb2JhbDo6eDEgKyA2NCkpKQoJCQkJewoJCQkJCWlmICgoZ2xvYmFsOjp5MSA8PSBtb3VzZXkxKSBhbmQgKG1vdXNleTEgPCAoZ2xvYmFsOjp5MSArIDY0KSkpCgkJCQkJewoJCQkJCQlFbnRpdHkgZ3JlZW4oZ2xvYmFsOjp4MSwgZ2xvYmFsOjp5MSwgZ3JlZW5wYXduKTsvLywgZG90MShnbG9iYWw6OngxLCB5MiwgZG90KTsKCQkJCQkJd2luZG93LnJlbmRlcihncmVlbik7Ly8gd2luZG93LnJlbmRlcihkb3QxKTsKCQkJCQkJeDIgPSBnbG9iYWw6OngxOwoJCQkJCQlsYXllciA9IGZhbHNlOwoJCQkJCX0KCQkJCX0KCQkJfQoJCQlpZiAobGF5ZXIgPT0gdHJ1ZSkKCQkJewoJCQkJZm9yIChFbnRpdHkmIGU6IHNxdWFyZXMpCgkJCQl7CgkJCQkJZ2xvYmFsOjp4MSA9IGUuZ2V0WCgpOwoJCQkJCWdsb2JhbDo6eTEgPSBlLmdldFkoKTsKCQkJCQlpZiAoKGdsb2JhbDo6eDEgPD0gbW91c2V4MSkgYW5kIChtb3VzZXgxIDwgKGdsb2JhbDo6eDEgKyA2NCkpKQoJCQkJCXsKCQkJCQkJaWYgKChnbG9iYWw6OnkxIDw9IG1vdXNleTEpIGFuZCAobW91c2V5MSA8IChnbG9iYWw6OnkxICsgNjQpKSkKCQkJCQkJewoJCQkJCQkJRW50aXR5IGQoZ2xvYmFsOjp4MSwgZ2xvYmFsOjp5MSwgcmVkKTsKCQkJCQkJCXdpbmRvdy5yZW5kZXIoZCk7CgkJCQkJCX0KCQkJCQl9CgkJCQl9CgkJCX0KCQl9CgkJd2luZG93LmRpc3BsYXkoKTsKCX0KCXdpbmRvdy5jbGVhblVwKCk7CglTRExfUXVpdCgpOwoJcmV0dXJuIDA7Cn0AAAAAAAAAAM8WAAAAAAAAAAAAAAAAAAAAAAAAzxYAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASDAAAAAAAABIMAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package c",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/bin",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/bin/debug",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/bin/release",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/source"
+	],
+	"file_history":
+	[
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/source/main.cpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/source/RenderWindow.cpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/include/RenderWindow.hpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/source/Entity.cpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/include/Entity.hpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/source/Entityptr1.cpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/include/Entityptr1.hpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/media/IMAGES/dot1.png",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/source/Squares.cpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/include/Squares.hpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/include/Utilities.hpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/source/Math.cpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/include/Math.hpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/source/IMPORTANT_INFO.cpp",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/PROJ. #1.sublime-project",
+		"/C/Users/micha/Desktop/COMP SCI/SDL SETUP/SUMMER C++ PROJECT/{",
+		"/C/Users/micha/Desktop/COMP SCI/PROJ. #1.sublime-project",
+		"/C/Program Files/Sublime Text/changelog.txt"
+	],
+	"find":
+	{
+		"height": 29.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"y3",
+			"y2",
+			"render",
+			"float"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/main.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5839,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3090,
+								3090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.3333333333
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 285.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"project": "PROJ. #1.sublime-project",
+	"replace":
+	{
+		"height": 54.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
